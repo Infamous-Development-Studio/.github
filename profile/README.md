@@ -6,7 +6,4 @@ Infamous Development Studios is an independent studio composed of several creati
 At IDS we specialize primarily on high quality asset/resource creation for CFX Projects (FiveM & RedM).
 
 ## Important Links
-
- - [Official Website](https://infamousdevstudios.com)
- - [Our Discord Server](https://infamousdevstudios.com/discord)
- - [Our Tebex Store](https://infamousdevstudios.com/shop)
+{LINKS PENDING FURTHER UPDATE}
