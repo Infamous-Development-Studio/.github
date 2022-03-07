@@ -6,6 +6,6 @@ At IDS we specialize primarily on high quality asset/resource creation for CFX P
 
 ## Important Links
 
-[Official Website](https://infamousdevstudios.com)
-[Our Discord Server](https://infamousdevstudios.com/discord)
-[Our Tebex Store](https://infamousdevstudios.com/shop)
+ - [Official Website](https://infamousdevstudios.com)
+ - [Our Discord Server](https://infamousdevstudios.com/discord)
+ - [Our Tebex Store](https://infamousdevstudios.com/shop)
